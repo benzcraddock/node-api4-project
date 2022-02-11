@@ -11,5 +11,5 @@ server.listen(PORT, () => {
 })
 
 server.use('*', (req, res) => {
-  res.send('<h1>Testtttttt this serverrrrrr ahhhh!</h1>')
+  res.send('<h1>Testtttttt this serverrrrrr ahhhhhh!</h1>')
 })
